@@ -1,0 +1,19 @@
+main {
+    background-image: url(../../images/imagesLogin/fundo2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#alinhamentoSenha {
+    width: 500px;
+    height: 600px;
+    margin: 170px 0px;
+    border-radius: 10px;
+    border: 2px solid var(--preto);
+    background-color: var(--branco);
+}
+
+#alinhamentoSenha form {
+    width: 70%;
+}
